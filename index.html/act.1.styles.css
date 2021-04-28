@@ -1,0 +1,106 @@
+
+html {
+    scroll-behavior: smooth;
+    color: purple;
+}
+
+.general {
+    background-color: #88f4fc;   
+}
+
+.gen {
+    background-color: #e4ff48;   
+}
+
+.gener {
+    background-color: #f77a99;   
+}
+
+body {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.menu {
+    text-align: center;
+}
+
+.menu ul li {
+    display: inline-block;
+    vertical-align: top;
+    border: solid #065786;
+    padding: 10px;
+}
+
+h2 { font-size: 30px; color: maroon; text-align: center; }
+h3 { font-size: 60px; text-align: center; }
+
+
+p {
+    font-size: 20px;
+    color: rgb(27, 27, 27);
+    opacity: 1.5;
+    line-height: 1.8; 
+    text-align: center;   
+}
+
+fieldset {
+    font-size: 20px;
+    color: rgb(48, 142, 250);
+    opacity: 1.5;
+    line-height: 1.8; 
+    text-align: center;
+}
+
+fieldset P {
+    font-size: 20px;
+    color: rgb(33, 19, 223);
+    opacity: 1.5;
+    line-height: 1.8; 
+    text-align: center;
+}
+    
+th {
+    font-size: 30px;
+    color:blue;
+    opacity: 1.5;
+    line-height: 1.8;    
+}
+td {
+    font-size: 30px;
+    color:rgb(2, 2, 80);
+    opacity: 1.5;
+    line-height: .8; 
+    text-align: center;   
+}
+
+.desocupem {
+    border: solid;
+    width: 100%;
+    opacity: 1.5;
+}
+
+.videoInicio {
+    border: solid;
+    width: 100%;
+    opacity: 1.0;
+}
+
+.Tpersonaje {
+    font-weight: bold;
+    font-size: 2em;
+    color: maroon ;
+}
+
+.Ipersonaje {
+    width: 200px;
+}
+
+.piePagina {
+    text-align: center;
+    color: #2e0afa;
+}
+
+.piePagina a {
+    text-decoration: none;
+    color: #07f743;
+}
